@@ -10,6 +10,8 @@ flask-restful = "*"
 flask-sqlalchemy = "*"
 flask-migrate = "*"
 marshmallow = "*"
+requests = "*"
+pandas = "*"
 
 [dev-packages]
 
