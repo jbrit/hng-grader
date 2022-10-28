@@ -79,6 +79,8 @@ def register():
 
             # first row is nan
             urls = pd_file[url_key].tolist()
+            # filter unique urls
+            urls = list(set(urls))
 
         except Exception as e:
             print(e)

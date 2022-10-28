@@ -1,0 +1,210 @@
+url,slackUsername,age,backend,bio,error
+/,,,,,Invalid URL '/': No scheme supplied. Perhaps you meant http:///?
+localhost:3030/,,,,,No connection adapters were found for 'localhost:3030/'
+http://localhost:8080/api/task1/user,,,,,"HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/task1/user (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x123384430>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+"""/interns""",,,,,"Invalid URL '""/interns""': No scheme supplied. Perhaps you meant http://""/interns""?"
+https://my-first-hng-task.herokuapp.com/profile,,,,,slackUsername is missing or not a string
+/api/v1/profiles,,,,,Invalid URL '/api/v1/profiles': No scheme supplied. Perhaps you meant http:///api/v1/profiles?
+http://127.0.0.1:8000,,,,,"HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x123282020>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+https://hng-7hdd.onrender.com,,,,,Expecting value: line 1 column 1 (char 0)
+https://hngi9-backend-assessment-production.up.railway.app/user,,,,,Expecting value: line 2 column 1 (char 1)
+https://hngtask.herokuapp.com/api/my-info,,,,,slackUsername is missing or not a string
+"localhost50,5000",,,,,"Invalid URL 'localhost50,5000': No scheme supplied. Perhaps you meant http://localhost50,5000?"
+localhost:3000/api/user,,,,,No connection adapters were found for 'localhost:3000/api/user'
+https://my-first-hng-task.herokuapp.com/profile,,,,,slackUsername is missing or not a string
+https://GitHub.com/mukhtarB,,,,,Expecting value: line 3 column 1 (char 2)
+https://hngi9-stage1.onrender.com,,,,,Expecting value: line 1 column 1 (char 0)
+https://hng.onrender.com,,,,,"HTTPSConnectionPool(host='hng.onrender.com', port=443): Read timed out. (read timeout=10)"
+hngi9.herokuapp.com,,,,,Invalid URL 'hngi9.herokuapp.com': No scheme supplied. Perhaps you meant http://hngi9.herokuapp.com?
+https://hngstageone.onrender.com/,,,,,"HTTPSConnectionPool(host='hngstageone.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://hng-backend-stage-one.onrender.com,,,,,"HTTPSConnectionPool(host='hng-backend-stage-one.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://hngtask1.onrender.com,,,,,"HTTPSConnectionPool(host='hngtask1.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://hng-task1-s07a.onrender.com/user,,,,,"HTTPSConnectionPool(host='hng-task1-s07a.onrender.com', port=443): Read timed out. (read timeout=10)"
+zuritask.herokuapp.com/user,,,,,Invalid URL 'zuritask.herokuapp.com/user': No scheme supplied. Perhaps you meant http://zuritask.herokuapp.com/user?
+jerryhng.onrender.com,,,,,Invalid URL 'jerryhng.onrender.com': No scheme supplied. Perhaps you meant http://jerryhng.onrender.com?
+https://hng-9-production.up.railway.app/interns,,,,,age is missing or not an integer
+https://achufam-task.onrender.com/,,,,,backend is missing or not true
+localhost:3000/profile/,,,,,No connection adapters were found for 'localhost:3000/profile/'
+https://eezzy2k3-i.onrender.com/api/v1/aboutme,,,,,"HTTPSConnectionPool(host='eezzy2k3-i.onrender.com', port=443): Read timed out. (read timeout=10)"
+hng-api-app.herokuapp.com//api/v1/detail,,,,,Invalid URL 'hng-api-app.herokuapp.com//api/v1/detail': No scheme supplied. Perhaps you meant http://hng-api-app.herokuapp.com//api/v1/detail?
+https://hng9-stage1.herokuapp.com/,,,,,slackUsername is missing or not a string
+https://hngi9-stage1-task.onrender.com/,,,,,"HTTPSConnectionPool(host='hngi9-stage1-task.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://hng-task-one.onrender.com,,,,,"HTTPSConnectionPool(host='hng-task-one.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://hng-task1.onrender.com,,,,,"HTTPSConnectionPool(host='hng-task1.onrender.com', port=443): Read timed out. (read timeout=10)"
+http://localhost:4000/hng-task1,,,,,"HTTPConnectionPool(host='localhost', port=4000): Max retries exceeded with url: /hng-task1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x123281690>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+https://hngtask1-mpy0.onrender.com/details,,,,,Expecting value: line 1 column 1 (char 0)
+https://hng-task1.onrender.com,,,,,"HTTPSConnectionPool(host='hng-task1.onrender.com', port=443): Read timed out. (read timeout=10)"
+http://52.56.97.39,,,,,"HTTPConnectionPool(host='52.56.97.39', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x123386d40>, 'Connection to 52.56.97.39 timed out. (connect timeout=10)'))"
+https://mn-hng-task-1.onrender.com/,,,,,"HTTPSConnectionPool(host='mn-hng-task-1.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://boluajileye.com/hngtask/task1/,,,,,slackUsername is missing or not a string
+https://simple-node-server.onrender.com/,,,,,"HTTPSConnectionPool(host='simple-node-server.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://hngstage1task.onrender.com,,,,,"HTTPSConnectionPool(host='hngstage1task.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://ebube.onrender.com,,,,,"HTTPSConnectionPool(host='ebube.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://fathomless-everglades-08895.herokuapp.com/,,,,,Expecting value: line 1 column 1 (char 0)
+https://lunar-flare-366500.postman.co/workspace/My-Workspace~f12bacd9-bca4-478f-8a98-834e546e6e20/request/21519412-befaf962-f268-45f9-9d39-c93e13561804?ctx=code,,,,,slackUsername is missing or not a string
+https://hng-7hdd.onrender.com,,,,,Expecting value: line 1 column 1 (char 0)
+https://gentcod-stage-one.onrender.com/oyefule-oluwatayo,,,,,"HTTPSConnectionPool(host='gentcod-stage-one.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://hng01.onrender.com/getUser,,,,,Expecting value: line 1 column 1 (char 0)
+https://node-server-qeqx.onrender.com,,,,,"HTTPSConnectionPool(host='node-server-qeqx.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://api-c7sx.onrender.com,,,,,Expecting value: line 1 column 1 (char 0)
+https://hng-task-1-jeff.onrender.com/,,,,,"HTTPSConnectionPool(host='hng-task-1-jeff.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://hng-backned-track.onrender.com/,,,,,"HTTPSConnectionPool(host='hng-backned-track.onrender.com', port=443): Read timed out. (read timeout=10)"
+http://collinsoma.pythonanywhere.com/api/user_details?format=json,,,,,slackUsername is missing or not a string
+https://getendpoint.onrender.com,,,,,"HTTPSConnectionPool(host='getendpoint.onrender.com', port=443): Read timed out. (read timeout=10)"
+hngi9.herokuapp.com,,,,,Invalid URL 'hngi9.herokuapp.com': No scheme supplied. Perhaps you meant http://hngi9.herokuapp.com?
+https://api-endpt.herokuapp.com/details,,,,,slackUsername is missing or not a string
+https://hng-bio.onrender.com/bio,,,,,slackUsername is missing or not a string
+http://dice-web-app.onrender.com,,,,,"HTTPSConnectionPool(host='dice-web-app.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://php9ih.deta.dev/data,,,,,slackUsername is missing or not a string
+https://hng-task1.onrender.com,,,,,"HTTPSConnectionPool(host='hng-task1.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://hngi-stage1.onrender.com/,,,,,"HTTPSConnectionPool(host='hngi-stage1.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://hng-training.onrender.com,,,,,"HTTPSConnectionPool(host='hng-training.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://hngslack.herokuapp.com/,,,,,slackUsername is missing or not a string
+https://stage-one-api-v1.onrender.com,,,,,"HTTPSConnectionPool(host='stage-one-api-v1.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://iceu-task1.onrender.com,,,,,"HTTPSConnectionPool(host='iceu-task1.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://hngbackendtask.onrender.com,,,,,"HTTPSConnectionPool(host='hngbackendtask.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://mytask-hng.herokuapp.com,,,,,bio is missing or not a string
+https://sadiq-stage1.onrender.com/,,,,,"HTTPSConnectionPool(host='sadiq-stage1.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://hng-task-1-deployment.onrender.com/data,,,,,"HTTPSConnectionPool(host='hng-task-1-deployment.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://patsapi.herokuapp.com/student/?format=json,,,,,slackUsername is missing or not a string
+https://flask-get-endpoint.onrender.com/,,,,,"HTTPSConnectionPool(host='flask-get-endpoint.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://jsonresponser.kawalpreetpreet.repl.co/jsonresponse,,,,,"HTTPSConnectionPool(host='jsonresponser.kawalpreetpreet.repl.co', port=443): Read timed out. (read timeout=10)"
+https://stage1-hng9.herokuapp.com/,,,,,slackUsername is missing or not a string
+/,,,,,Invalid URL '/': No scheme supplied. Perhaps you meant http:///?
+hng-task1-bcknd.herokuapp.com,,,,,Invalid URL 'hng-task1-bcknd.herokuapp.com': No scheme supplied. Perhaps you meant http://hng-task1-bcknd.herokuapp.com?
+test,,,,,Invalid URL 'test': No scheme supplied. Perhaps you meant http://test?
+https://hng-task1.onrender.com,,,,,"HTTPSConnectionPool(host='hng-task1.onrender.com', port=443): Read timed out. (read timeout=10)"
+http://127.0.0.1:8000/,,,,,"HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x123258a00>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+https://hng-task-1.onyelaudochukwu.repl.co/,,,,,"HTTPSConnectionPool(host='hng-task-1.onyelaudochukwu.repl.co', port=443): Read timed out. (read timeout=10)"
+https://HNGTASK01.ibukunlawson.repl.co,,,,,slackUsername is missing or not a string
+http://localhost:8000.com/api/v1/signup,,,,,Failed to parse: http://localhost:8000.com/api/v1/signup
+https://taiwonaf-hng-taskone.onrender.com/user,,,,,"HTTPSConnectionPool(host='taiwonaf-hng-taskone.onrender.com', port=443): Read timed out. (read timeout=10)"
+"""http://127.0.0.1:8000/TaskApp/user/""",,,,,"No connection adapters were found for '""http://127.0.0.1:8000/TaskApp/user/""'"
+https://eddyenin.com/api/eddyenin,,,,,"HTTPSConnectionPool(host='eddyenin.com', port=443): Max retries exceeded with url: /api/eddyenin (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:997)')))"
+https://taskserver.onrender.com,,,,,age is missing or not an integer
+https://golang-api-5ylq.onrender.com/student,,,,,Expecting value: line 1 column 1 (char 0)
+https://nax-app.herokuapp.com/,,,,,Expecting value: line 1 column 1 (char 0)
+https://developersmindset.onrender.com,,,,,"HTTPSConnectionPool(host='developersmindset.onrender.com', port=443): Read timed out. (read timeout=10)"
+http://hng9.citechs.com.ng/?username=chriswax,,,,,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+hngone.onrender.com,,,,,Invalid URL 'hngone.onrender.com': No scheme supplied. Perhaps you meant http://hngone.onrender.com?
+https://hng001.onrender.com/getuser,,,,,"HTTPSConnectionPool(host='hng001.onrender.com', port=443): Read timed out. (read timeout=10)"
+http://127.0.0:8000,,,,,"HTTPConnectionPool(host='127.0.0', port=8000): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x123280370>, 'Connection to 127.0.0 timed out. (connect timeout=10)'))"
+https://github.com/iBotmitti/css,,,,,Expecting value: line 8 column 1 (char 7)
+127.0.0.1:3000/api/v1/taskOne,,,,,No connection adapters were found for '127.0.0.1:3000/api/v1/taskOne'
+https://hngtask1-mpy0.onrender.com/details,,,,,Expecting value: line 1 column 1 (char 0)
+https://judedetails.herokuapp.com/,,,,,slackUsername is missing or not a string
+https://mallamty-hng-stage-1-task.herokuapp.com/home/,,,,,age is missing or not an integer
+https://usenmfon-profile.onrender.com/,,,,,"HTTPSConnectionPool(host='usenmfon-profile.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://i9server.onrender.com/,,,,,"HTTPSConnectionPool(host='i9server.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://hnginterninfo.onrender.com/internInfo,,,,,slackUsername is missing or not a string
+127.0.0.1:3000/about,,,,,No connection adapters were found for '127.0.0.1:3000/about'
+https://backend-stage-1.onrender.com/user,,,,,"HTTPSConnectionPool(host='backend-stage-1.onrender.com', port=443): Read timed out. (read timeout=10)"
+http://adelakin.pythonanywhere.com/,,,,,age is missing or not an integer
+https://hngi9-backend.herokuapp.com/api/user,,,,,backend is missing or not true
+https://one-task.onrender.com/data,,,,,"HTTPSConnectionPool(host='one-task.onrender.com', port=443): Read timed out. (read timeout=10)"
+http://127.0.0.1:3000/,,,,,"HTTPConnectionPool(host='127.0.0.1', port=3000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x123281d20>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+https://hng-ztoq.onrender.com/api/me,,,,,"HTTPSConnectionPool(host='hng-ztoq.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://core12.herokuapp.com/,,,,,slackUsername is missing or not a string
+Localhost:5000,,,,,No connection adapters were found for 'Localhost:5000'
+https://hngi9stage1task.onrender.com/api/info,,,,,"HTTPSConnectionPool(host='hngi9stage1task.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://about-8php.onrender.com/,,,,,"HTTPSConnectionPool(host='about-8php.onrender.com', port=443): Read timed out. (read timeout=10)"
+http://udosaint.pythonanywhere.com/api/,,,,,Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+https://fife.pythonanywhere.com/,,,,,slackUsername is missing or not a string
+https://lykas-biodata.herokuapp.com/biodata/,,,,,slackUsername is missing or not a string
+https://myfirsthngtask.onrender.com/getroute,,,,,"HTTPSConnectionPool(host='myfirsthngtask.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://my-hng9i-task.onrender.com/,,,,,"HTTPSConnectionPool(host='my-hng9i-task.onrender.com', port=443): Read timed out. (read timeout=10)"
+hngfirststage.herokuapp.com,,,,,Invalid URL 'hngfirststage.herokuapp.com': No scheme supplied. Perhaps you meant http://hngfirststage.herokuapp.com?
+https://hngtask1-mpy0.onrender.com/api/v1/details,,,,,backend is missing or not true
+https://gentlesoul.herokuapp.com/,,,,,age is missing or not an integer
+https://ali-bio-api-service.onrender.com/,,,,,"HTTPSConnectionPool(host='ali-bio-api-service.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://hngtask1-mpy0.onrender.com/api/v1/details,,,,,backend is missing or not true
+https://ayobalen.github.io/Zuri-HNG/,,,,,Expecting value: line 1 column 1 (char 0)
+/user-detail,,,,,Invalid URL '/user-detail': No scheme supplied. Perhaps you meant http:///user-detail?
+,,,,,Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+http://localhost:7000/home,,,,,Expecting value: line 1 column 1 (char 0)
+/,,,,,Invalid URL '/': No scheme supplied. Perhaps you meant http:///?
+hnginterninfo.onrender.com/internInfo,,,,,Invalid URL 'hnginterninfo.onrender.com/internInfo': No scheme supplied. Perhaps you meant http://hnginterninfo.onrender.com/internInfo?
+https://gentlesoul.herokuapp.com/,,,,,age is missing or not an integer
+https://hngstage1task-a4jf.onrender.com/,,,,,"HTTPSConnectionPool(host='hngstage1task-a4jf.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://hngtask1-mpy0.onrender.com/api/v1/details,,,,,backend is missing or not true
+https://my-bio.onrender.com,,,,,"HTTPSConnectionPool(host='my-bio.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://nimble-capybara-9b8c51.netlify.app/,,,,,Expecting value: line 1 column 1 (char 0)
+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,,,,,Invalid URL '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': No scheme supplied. Perhaps you meant http://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?
+https://hng-backend-task-1.onrender.com/,,,,,"HTTPSConnectionPool(host='hng-backend-task-1.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://hng-backend-task-1.onrender.com/,,,,,"HTTPSConnectionPool(host='hng-backend-task-1.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://zion01.pythonanywhere.com/,,,,,backend is missing or not true
+https://hngslack.herokuapp.com/,,,,,slackUsername is missing or not a string
+https://enigmatic-anchorage-98938.herokuapp.com/api/task1,,,,,slackUsername is missing or not a string
+https://hng-stage1.onrender.com/,,,,,Expecting value: line 1 column 1 (char 0)
+https://morning-plains-38353.herokuapp.com/,,,,,slackUsername is missing or not a string
+http://chiderastella.pythonanywhere.com/user/index/,,,,,slackUsername is missing or not a string
+https://jerryhng.onrender.com,,,,,"HTTPSConnectionPool(host='jerryhng.onrender.com', port=443): Read timed out. (read timeout=10)"
+http://chiderastella.pythonanywhere.com/user/index/,,,,,slackUsername is missing or not a string
+https://goonss.herokuapp.com/,,,,,slackUsername is missing or not a string
+http://localhost:8080/get-info,,,,,"HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /get-info (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1232ced70>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+https://hngdata.onrender.com,,,,,bio is missing or not a string
+https://hnggggggggggggg.onrender.com/getoute,,,,,Expecting value: line 1 column 1 (char 0)
+https://fast-temple-28873.herokuapp.com,,,,,slackUsername is missing or not a string
+https://franklin0077.pythonanywhere.com/getData/,,,,,slackUsername is missing or not a string
+https://hng-backend-task-1.onrender.com,,,,,"HTTPSConnectionPool(host='hng-backend-task-1.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://stage1-adeben33.koyeb.app/,,,,,Expecting value: line 1 column 1 (char 0)
+https://hng-backend-task1.onrender.com/profile,,,,,"HTTPSConnectionPool(host='hng-backend-task1.onrender.com', port=443): Read timed out. (read timeout=10)"
+seyiadel-hng9-stage1.herokuapp.com,,,,,Invalid URL 'seyiadel-hng9-stage1.herokuapp.com': No scheme supplied. Perhaps you meant http://seyiadel-hng9-stage1.herokuapp.com?
+https://hng9-first-task.onrender.com,,,,,"HTTPSConnectionPool(host='hng9-first-task.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://backend-task-one.onrender.com/getdata,,,,,slackUsername is missing or not a string
+https://fast-temple-28873.herokuapp.com,,,,,slackUsername is missing or not a string
+https://hng9i-stage1-task.onrender.com/,,,,,"HTTPSConnectionPool(host='hng9i-stage1-task.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://django-server-production-15c0.up.railway.app/api/bio/,,,,,slackUsername is missing or not a string
+https://web-production-2f6f.up.railway.app/,,,,,slackUsername is missing or not a string
+https://stage-1-task.onrender.com,,,,,"HTTPSConnectionPool(host='stage-1-task.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://web-production-8f86.up.railway.app,,,,,Expecting value: line 2 column 1 (char 1)
+https://fastapi2013.herokuapp.com/get-student/1,,,,,slackUsername is missing or not a string
+https://stage-1-hng-task.onrender.com/,,,,,"HTTPSConnectionPool(host='stage-1-hng-task.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://aboutmeapi.azurewebsites.net/get,,,,,Expecting value: line 1 column 1 (char 0)
+https://hng-bio.onrender.com/bio,,,,,slackUsername is missing or not a string
+https://aiva-stage1.herokuapp.com/details,,,,,slackUsername is missing or not a string
+https://ayoleyi-server.herokuapp.com/task/,,,,,"HTTPSConnectionPool(host='ayoleyi-server.herokuapp.com', port=443): Max retries exceeded with url: /task/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x123280490>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+https://ikoko-hng-stageone.herokuapp.com/,,,,,Expecting value: line 1 column 1 (char 0)
+https://hng1.te70.repl.co,,,,,slackUsername is missing or not a string
+https://hngi9tasks.000webhostapp.com/api.php?user_id=1,,,,,slackUsername is missing or not a string
+https://hng-7hdd.onrender.com,,,,,Expecting value: line 1 column 1 (char 0)
+https://training-afre.onrender.com/,,,,,"HTTPSConnectionPool(host='training-afre.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://hngi9-api-project.herokuapp.com/slackusers/,,,,,slackUsername is missing or not a string
+https://graceful-wind-minute.glitch.me,,,,,Expecting value: line 1 column 1 (char 0)
+https://hngi-task1-backend.herokuapp.com/,,,,,slackUsername is missing or not a string
+https://tayodevhng4.onrender.com/details,,,,,"HTTPSConnectionPool(host='tayodevhng4.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://golang-api-5ylq.onrender.com/student,,,,,Expecting value: line 1 column 1 (char 0)
+https://task1-p1qb.onrender.com,,,,,"HTTPSConnectionPool(host='task1-p1qb.onrender.com', port=443): Read timed out. (read timeout=10)"
+hngone.herokuapp.com,,,,,Invalid URL 'hngone.herokuapp.com': No scheme supplied. Perhaps you meant http://hngone.herokuapp.com?
+https://hngtask1-mpy0.onrender.com/api/v1/details,,,,,backend is missing or not true
+http://hng-1-deverence.herokuapp.com/,,,,,backend is missing or not true
+https://zuriapi.herokuapp.com/,,,,,slackUsername is missing or not a string
+https://hng9-stage1.herokuapp.com,,,,,slackUsername is missing or not a string
+http://localhost:8080/api/v1/User/getUser,,,,,"HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/v1/User/getUser (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1232ef3a0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+https://backend-task-one.onrender.com/getdata,,,,,slackUsername is missing or not a string
+https://hngi9tasks.000webhostapp.com/api.php?user_id=1,,,,,slackUsername is missing or not a string
+https://hngdata.onrender.com,,,,,bio is missing or not a string
+https://hngi-task1-backend.herokuapp.com/,,,,,slackUsername is missing or not a string
+https://fife.pythonanywhere.com/,,,,,slackUsername is missing or not a string
+Option 1,,,,,Invalid URL 'Option 1': No scheme supplied. Perhaps you meant http://Option 1?
+https://hng-1-7d6i.onrender.com/,,,,,slackUsername is missing or not a string
+https://hdata.onrender.com,,,,,bio is missing or not a string
+https://powerful-dawn-74615.herokuapp.com/api/v1/,,,,,slackUsername is missing or not a string
+https://mallamty-hng-stage-1-task.herokuapp.com/home/,,,,,age is missing or not an integer
+https://powerful-dawn-74615.herokuapp.com/api/v1/,,,,,slackUsername is missing or not a string
+https://web-production-b6f3.up.railway.app,,,,,slackUsername is missing or not a string
+https://hngi9-backend.herokuapp.com/api/user,,,,,backend is missing or not true
+http://samjero02.pythonanywhere.com/,,,,,bio is missing or not a string
+https://genevieveikechukwu.pythonanywhere.com/1?format=json,,,,,slackUsername is missing or not a string
+https://jude-detail.herokuapp.com,,,,,slackUsername is missing or not a string
+https://stage-1-adeben33.koyeb.app/,,,,,slackUsername is missing or not a string
+https://hngi9-backend.herokuapp.com/api/user,,,,,backend is missing or not true
+https://hng-stage-one.herokuapp.com/,,,,,slackUsername is missing or not a string
+https://vick-pro.onrender.com/,,,,,"HTTPSConnectionPool(host='vick-pro.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://HNGTASK01.ibukunlawson.repl.co,,,,,slackUsername is missing or not a string
+https://mysterious-chamber-49958.herokuapp.com/,,,,,bio is missing or not a string
+https://web-production-b6f3.up.railway.app/,,,,,slackUsername is missing or not a string
+https://github.com/OtienoB/Projects.git,,,,,Expecting value: line 8 column 1 (char 7)
+https://apiendpoint.onrender.com/,,,,,"HTTPSConnectionPool(host='apiendpoint.onrender.com', port=443): Read timed out. (read timeout=10)"
+https://node-hzzy.herokuapp.com/,,,,,backend is missing or not true
+https://task1-hng-y5uz.onrender.com,,,,,"HTTPSConnectionPool(host='task1-hng-y5uz.onrender.com', port=443): Read timed out. (read timeout=10)"
