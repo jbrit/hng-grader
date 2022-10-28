@@ -78,7 +78,7 @@ def register():
             url_key = pd_file.columns[5]
 
             # first row is nan
-            urls = pd_file[url_key].tolist()[:15]
+            urls = pd_file[url_key].tolist()
 
         except Exception as e:
             print(e)
