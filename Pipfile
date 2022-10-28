@@ -12,6 +12,7 @@ flask-migrate = "*"
 marshmallow = "*"
 requests = "*"
 pandas = "*"
+gunicorn = "*"
 
 [dev-packages]
 
